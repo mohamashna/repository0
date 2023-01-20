@@ -1,2 +1,4 @@
-# repository0
-#Python will unlock the world!
+Hi, 
+To review my assignment please see Jupyter_Notebook.ipynb
+Thanks!
+
