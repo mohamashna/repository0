@@ -1,4 +1,5 @@
 Hi, 
-To review my assignment please see Jupyter_Notebook.ipynb
+To review my assignment please see Jupyter_Notebook.ipynb.
+
 Thanks!
 
